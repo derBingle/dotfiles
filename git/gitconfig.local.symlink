@@ -1,0 +1,5 @@
+[user]
+        name = derBingle
+        email = luke@broughtbackbooks.com
+[credential]
+        helper = osxkeychain
